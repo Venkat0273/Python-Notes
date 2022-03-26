@@ -1,0 +1,1 @@
+-e git+https://github.com/Venkat0273/Python-Notes.git@774b0d5e7066996edd008da9a03d2197707b5e73#egg=notes
