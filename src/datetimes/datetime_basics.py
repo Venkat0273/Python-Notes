@@ -44,6 +44,9 @@ __author_email__ = "venkatram0273@gmail.com"
 import datetime
 
 
+def date_today():
+    """Returns the date"""
+    return datetime.datetime.now()
 # today: datetime.date = datetime.date.today()
 
 # today_new: datetime.date = datetime.date(2020, 1, 1)
